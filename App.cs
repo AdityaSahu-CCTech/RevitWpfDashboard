@@ -13,7 +13,7 @@ namespace RevitWpfDashboard
 
             try { app.CreateRibbonTab(tabName); }
             catch { }
-
+            //Ribbon Creation
             RibbonPanel panel = app.CreateRibbonPanel(tabName, "File Manager");
 
             string assemblyPath = Assembly.GetExecutingAssembly().Location;
