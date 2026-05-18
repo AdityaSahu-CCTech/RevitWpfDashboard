@@ -96,6 +96,9 @@ RevitWpfDashboard
 
 Revit API used:
 Document.SaveAs(path, SaveAsOptions)
+UI
+<img width="372" height="297" alt="image" src="https://github.com/user-attachments/assets/8bd4a802-2972-4efc-8acf-fb8add0c41bd" />
+<img width="662" height="421" alt="image" src="https://github.com/user-attachments/assets/32e73db2-1bc9-4062-ae03-85c311385085" />
 
 
 ### Create Add-in Manifest
