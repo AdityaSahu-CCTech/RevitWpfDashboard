@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+
+	<AddIn Type="Application">
+		<Name>Revit WPF Dashboard</Name>
+
+		<Assembly>
+			"C:\AdityaCode\RevitWpfDashboard\bin\x64\Debug\net10.0-windows\RevitWpfDashboard.dll"
+		</Assembly>
+
+		<AddInId>266A66D7-983A-4920-9EDD-0ED0D6EB1318</AddInId>
+
+		<!-- THIS MUST MATCH YOUR APP CLASS -->
+		<FullClassName>RevitWpfDashboard.App</FullClassName>
+
+		<VendorId>ADITYA</VendorId>
+		<VendorDescription>Import Export Dashboard Plugin</VendorDescription>
+
+	</AddIn>
+
+</RevitAddIns>
