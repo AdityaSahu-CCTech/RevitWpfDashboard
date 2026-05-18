@@ -10,7 +10,7 @@ namespace RevitWpfDashboard
     {
         public static ExternalEvent ExEvent;
         public static RevitRequestHandler Handler;
-
+        // This method is called when the user clicks the button in the Revit UI
         public Result Execute(
             ExternalCommandData commandData,
             ref string message,
